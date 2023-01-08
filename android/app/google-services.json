@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "717375972903",
+    "project_id": "loiszaga-mini-project",
+    "storage_bucket": "loiszaga-mini-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717375972903:android:c6ae6cd51f633451ec5002",
+        "android_client_info": {
+          "package_name": "com.loiszaga.dansmp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717375972903-qao2g3krl3agu5r9d007avu4vg7ephhb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-QieHUb5aN6tzIDcYarYb7M-l-WNT9Ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717375972903-qao2g3krl3agu5r9d007avu4vg7ephhb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

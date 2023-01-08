@@ -1,0 +1,26 @@
+export default {
+    white            : '#fff',
+    black            : '#000',
+    red              : '#FF0000',
+    redThin          : '#fbe5e3',
+    redLight         : '#dd7a76',
+    blue             : '#00479A',
+    green            : '#8BC34A',
+    greenLight       : '#45BD00',
+    greenButton      : '#19C48F',
+    greenAvatar      : '#1fbc9b',
+    orange           : '#FDAD1A',
+    colorBlueLight   : '#007CCC',
+
+    /* gray variation color */
+    gray             : '#636e72',
+    colorDivider     : '#E2E2E2',
+    grayLight        : '#F0F0F0',
+    whiteDark        : '#F4F4F4',
+    shineGray        : '#d4d4d4',
+    colorClosedGrey  : '#CCCCCC',
+    colorClosedText  : '#B3B3B3',
+    colorGreyDark    : '#515151',
+    colorGreyText    : '#808080',
+    colorGreyThin    : '#d2d2d2',
+}
